@@ -2,7 +2,7 @@
 
 The included AHE alignments act as the basis for AusARG divergence dating exercises. New sequences can rapidly be added to these base alignments using [MAFFT's](https://mafft.cbrc.jp/alignment/software/) `--add` and `--keeplength` functions. 
 
-Summary statistics for [loci](https://github.com/IanGBrennan/SquamateGenomics/AHE/locus_summary.csv) and [taxa](https://github.com/IanGBrennan/SquamateGenomics/AHE/taxon_summary.csv) are available in this directory.
+Summary statistics for [loci](https://github.com/IanGBrennan/SquamateGenomics/tree/main/AHE/locus_summary.csv) and [taxa](https://github.com/IanGBrennan/SquamateGenomics/tree/main/AHE/taxon_summary.csv) are available in this directory.
 
 | taxon |	locus counts |
 |:------| ------------:|
